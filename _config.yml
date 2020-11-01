@@ -1,1 +1,8 @@
-theme: jekyll-theme-cayman
+# theme: jekyll-theme-cayman
+remote_theme: "dracula/gh-pages"
+
+# global settings
+title:           "Jcardona's Blog"
+email:           "jorgecardonavargas@gmail.com"
+description:     "InfoSec stuff"
+github-username: jorge-cardona
